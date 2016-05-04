@@ -2,6 +2,7 @@ name: eli-africa
 favicon: null
 layout_spectrum: 0.2745163661893457
 typography_spectrum: 0.5042839362286031
+title: ELI Africa
 cta:
   domain: null
   bucket: null
